@@ -1,0 +1,2320 @@
+{
+  "checked_at": "2026-11-22T12:37:01+08:00",
+  "new_count": 112,
+  "queries": [
+    {
+      "provider": "gutendex",
+      "query": "psychology",
+      "status": "成功，返回 32 条"
+    },
+    {
+      "provider": "gutendex",
+      "query": "Freud",
+      "status": "失败：timeout: The read operation timed out"
+    },
+    {
+      "provider": "gutendex",
+      "query": "Titchener",
+      "status": "失败：timeout: The read operation timed out"
+    },
+    {
+      "provider": "gutendex",
+      "query": "Adler",
+      "status": "失败：HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "Carl Rogers",
+      "status": "成功，返回 8 条"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "Abraham Maslow",
+      "status": "成功，返回 8 条"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "Viktor Frankl",
+      "status": "成功，返回 8 条"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "Ulric Neisser",
+      "status": "成功，返回 8 条"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "Jean Piaget",
+      "status": "成功，返回 8 条"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "Lev Vygotsky",
+      "status": "成功，返回 8 条"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "Albert Bandura",
+      "status": "成功，返回 8 条"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "Aaron Beck",
+      "status": "成功，返回 8 条"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "Salvador Minuchin",
+      "status": "成功，返回 8 条"
+    },
+    {
+      "provider": "openlibrary",
+      "query": "James J. Gibson",
+      "status": "成功，返回 8 条"
+    }
+  ],
+  "items": [
+    {
+      "id": "gutenberg:10674",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "How to Use Your Mind: A Psychology of Study: Being a Manual for the Use of Students and Teachers in the Administration of Supervised Study",
+      "authors": [
+        "Kitson, Harry Dexter"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/10674",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:1320",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Criminal Psychology: A Manual for Judges, Practitioners, and Students",
+      "authors": [
+        "Gross, Hans"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/1320",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:13610",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Studies in the Psychology of Sex, Volume 1: The Evolution of Modesty; The Phenomena of Sexual Periodicity; Auto-Erotism",
+      "authors": [
+        "Ellis, Havelock"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/13610",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:13611",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Studies in the Psychology of Sex, Volume 2: Sexual Inversion",
+      "authors": [
+        "Ellis, Havelock"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/13611",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:13612",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Studies in the Psychology of Sex, Volume 3: Analysis of the Sexual Impulse; Love and Pain; The Sexual Impulse in Women",
+      "authors": [
+        "Ellis, Havelock"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/13612",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:13613",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Studies in the Psychology of Sex, Volume 4: Sexual Selection In Man",
+      "authors": [
+        "Ellis, Havelock"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/13613",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:13614",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Studies in the Psychology of Sex, Volume 5: Erotic Symbolism; The Mechanism of Detumescence; The Psychic State in Pregnancy",
+      "authors": [
+        "Ellis, Havelock"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/13614",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:13615",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Studies in the Psychology of Sex, Volume 6: Sex in Relation to Society",
+      "authors": [
+        "Ellis, Havelock"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/13615",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:15154",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Psychology and Industrial Efficiency",
+      "authors": [
+        "Münsterberg, Hugo"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/15154",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:15489",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Dream Psychology: Psychoanalysis for Beginners",
+      "authors": [
+        "Freud, Sigmund"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/15489",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:16256",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The Psychology of Management: The Function of the Mind in Determining, Teaching and Installing Methods of Least Waste",
+      "authors": [
+        "Gilbreth, Lillian Moller"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/16256",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:16287",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Talks To Teachers On Psychology; And To Students On Some Of Life's Ideals",
+      "authors": [
+        "James, William"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/16287",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:18477",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The Science of Human Nature: A Psychology for Beginners",
+      "authors": [
+        "Pyle, William Henry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/18477",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:21957",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The Psychology of Singing: A Rational Method of Voice Culture Based on a Scientific Analysis of All Systems, Ancient and Modern",
+      "authors": [
+        "Taylor, David C. (David Clark)"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/21957",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:31382",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Psychology : $b A study of mental life",
+      "authors": [
+        "Woodworth, Robert Sessions"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/31382",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:33936",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Clever Hans (The Horse of Mr. Von Osten): A contribution to experimental animal and human psychology",
+      "authors": [
+        "Pfungst, Oskar"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/33936",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:35877",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Group Psychology and The Analysis of The Ego",
+      "authors": [
+        "Freud, Sigmund"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/35877",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:40744",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Psychology and Social Practice",
+      "authors": [
+        "Dewey, John"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/40744",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:40826",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The Group Mind: A Sketch of the Principles of Collective Psychology: With Some Attempt to Apply Them to the Interpretation of National Life and Character",
+      "authors": [
+        "McDougall, William"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/40826",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:41386",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Human Nature and Conduct: An introduction to social psychology",
+      "authors": [
+        "Dewey, John"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/41386",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:41510",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The Psychology of Salesmanship",
+      "authors": [
+        "Atkinson, William Walker"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/41510",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:42055",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Your Mind and How to Use It: A Manual of Practical Psychology",
+      "authors": [
+        "Atkinson, William Walker"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/42055",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:48225",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Collected Papers on Analytical Psychology",
+      "authors": [
+        "Jung, C. G. (Carl Gustav)"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/48225",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:48869",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Fact and Fable in Psychology",
+      "authors": [
+        "Jastrow, Joseph"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/48869",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:55262",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Psychology: Briefer Course",
+      "authors": [
+        "James, William"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/55262",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:57628",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The Principles of Psychology, Volume 1 (of 2)",
+      "authors": [
+        "James, William"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/57628",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:57634",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The Principles of Psychology, Volume 2 (of 2)",
+      "authors": [
+        "James, William"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/57634",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:65903",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Psychology of the Unconscious: A Study of the Transformations and Symbolisms of the Libido. A Contribution to the History of the Evolution of Thought",
+      "authors": [
+        "Jung, C. G. (Carl Gustav)"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/65903",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:67585",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The Psychology of the Emotions",
+      "authors": [
+        "Ribot, Th. (Théodule)"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/67585",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:73647",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The psychology of speculation : $b The human element in stock market transactions",
+      "authors": [
+        "Harper, Henry Howard"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/73647",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:75570",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "Psychology of the stock market",
+      "authors": [
+        "Selden, G. C. (George Charles)"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/75570",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "gutenberg:79430",
+      "provider": "Project Gutenberg / Gutendex metadata",
+      "title": "The psychology of the criminal",
+      "authors": [
+        "Markun, Leo"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/79430",
+      "access_metadata": {
+        "copyright": false
+      },
+      "query": "psychology",
+      "review_status": "待核验：经典地位、版本和所在地授权尚未审核",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1268406W",
+      "provider": "Open Library metadata",
+      "title": "Der unbewusste Gott",
+      "authors": [
+        "Viktor Emil Frankl"
+      ],
+      "first_publish_year": 1974,
+      "languages": [
+        "ger",
+        "fre",
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1268406W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Viktor Frankl",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1268413W",
+      "provider": "Open Library metadata",
+      "title": "... Trotzdem Ja zum Leben sagen",
+      "authors": [
+        "Viktor Emil Frankl"
+      ],
+      "first_publish_year": 1946,
+      "languages": [
+        "mar",
+        "fre",
+        "chi",
+        "und",
+        "ger",
+        "tam",
+        "afr",
+        "spa",
+        "srp",
+        "eng",
+        "ita"
+      ],
+      "url": "https://openlibrary.org/works/OL1268413W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Viktor Frankl",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1268453W",
+      "provider": "Open Library metadata",
+      "title": "Ärztliche Seelsorge",
+      "authors": [
+        "Viktor Emil Frankl"
+      ],
+      "first_publish_year": 1947,
+      "languages": [
+        "ger",
+        "spa",
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1268453W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Viktor Frankl",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1303608W",
+      "provider": "Open Library metadata",
+      "title": "Langage et la pensée chez l'enfant",
+      "authors": [
+        "Jean Piaget"
+      ],
+      "first_publish_year": 1926,
+      "languages": [
+        "eng",
+        "fre"
+      ],
+      "url": "https://openlibrary.org/works/OL1303608W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Jean Piaget",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1303728W",
+      "provider": "Open Library metadata",
+      "title": "The origin of intelligence in the child",
+      "authors": [
+        "Jean Piaget"
+      ],
+      "first_publish_year": 1952,
+      "languages": [
+        "spa",
+        "eng",
+        "fre"
+      ],
+      "url": "https://openlibrary.org/works/OL1303728W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Jean Piaget",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1303737W",
+      "provider": "Open Library metadata",
+      "title": "Psychology and epistemology",
+      "authors": [
+        "Jean Piaget"
+      ],
+      "first_publish_year": 1970,
+      "languages": [
+        "eng",
+        "fre"
+      ],
+      "url": "https://openlibrary.org/works/OL1303737W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Jean Piaget",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1303742W",
+      "provider": "Open Library metadata",
+      "title": "Play, dreams, and imitation in childhood",
+      "authors": [
+        "Jean Piaget"
+      ],
+      "first_publish_year": 1951,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1303742W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Jean Piaget",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1303745W",
+      "provider": "Open Library metadata",
+      "title": "Psychologie et pédagogie",
+      "authors": [
+        "Jean Piaget"
+      ],
+      "first_publish_year": 1969,
+      "languages": [
+        "spa",
+        "fre",
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1303745W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Jean Piaget",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1303748W",
+      "provider": "Open Library metadata",
+      "title": "Psychologie de l'intelligence",
+      "authors": [
+        "Jean Piaget"
+      ],
+      "first_publish_year": 1950,
+      "languages": [
+        "eng",
+        "fre"
+      ],
+      "url": "https://openlibrary.org/works/OL1303748W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Jean Piaget",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1303751W",
+      "provider": "Open Library metadata",
+      "title": "Représentation du monde chez l'enfant",
+      "authors": [
+        "Jean Piaget"
+      ],
+      "first_publish_year": 1929,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1303751W",
+      "access_metadata": {
+        "ebook_access": "public"
+      },
+      "query": "Jean Piaget",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL15341296W",
+      "provider": "Open Library metadata",
+      "title": "Psychologie de l'enfant",
+      "authors": [
+        "Jean Piaget",
+        "Bärbel Inhelder"
+      ],
+      "first_publish_year": 1969,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL15341296W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Jean Piaget",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL15836165W",
+      "provider": "Open Library metadata",
+      "title": "Families & family therapy",
+      "authors": [
+        "Salvador Minuchin"
+      ],
+      "first_publish_year": 1974,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL15836165W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Salvador Minuchin",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL17321240W",
+      "provider": "Open Library metadata",
+      "title": "Thought and language",
+      "authors": [
+        "Lev Vygotsky"
+      ],
+      "first_publish_year": 1962,
+      "languages": [
+        "eng",
+        "rus"
+      ],
+      "url": "https://openlibrary.org/works/OL17321240W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Lev Vygotsky",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL17486721W",
+      "provider": "Open Library metadata",
+      "title": "The craft of family therapy",
+      "authors": [
+        "Salvador Minuchin"
+      ],
+      "first_publish_year": 2013,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL17486721W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Salvador Minuchin",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL17902301W",
+      "provider": "Open Library metadata",
+      "title": "Families & family therapy",
+      "authors": [
+        "Salvador Minuchin"
+      ],
+      "first_publish_year": 1974,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL17902301W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Salvador Minuchin",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1807531W",
+      "provider": "Open Library metadata",
+      "title": "Maslow on management",
+      "authors": [
+        "Abraham H. Maslow"
+      ],
+      "first_publish_year": 1998,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1807531W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Abraham Maslow",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1807534W",
+      "provider": "Open Library metadata",
+      "title": "Religious values, and peak-experiences",
+      "authors": [
+        "Abraham H. Maslow"
+      ],
+      "first_publish_year": 1964,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1807534W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Abraham Maslow",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1807535W",
+      "provider": "Open Library metadata",
+      "title": "Towards a psychology of being.",
+      "authors": [
+        "Abraham H. Maslow"
+      ],
+      "first_publish_year": 1962,
+      "languages": [
+        "eng",
+        "fre"
+      ],
+      "url": "https://openlibrary.org/works/OL1807535W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Abraham Maslow",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1807537W",
+      "provider": "Open Library metadata",
+      "title": "New knowledge in human values",
+      "authors": [
+        "Abraham H. Maslow"
+      ],
+      "first_publish_year": 1959,
+      "languages": [
+        "und",
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1807537W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Abraham Maslow",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1807538W",
+      "provider": "Open Library metadata",
+      "title": "The farther reaches of human nature",
+      "authors": [
+        "Abraham H. Maslow"
+      ],
+      "first_publish_year": 1971,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1807538W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Abraham Maslow",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL1807541W",
+      "provider": "Open Library metadata",
+      "title": "Motivation and personality",
+      "authors": [
+        "Abraham H. Maslow"
+      ],
+      "first_publish_year": 1954,
+      "languages": [
+        "fre",
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL1807541W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Abraham Maslow",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL18155124W",
+      "provider": "Open Library metadata",
+      "title": "Cognition and reality : principles and implications of cognitive psychology",
+      "authors": [
+        "Ulric Neisser"
+      ],
+      "first_publish_year": null,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL18155124W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Ulric Neisser",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL18246566W",
+      "provider": "Open Library metadata",
+      "title": "The School achievement of minority children",
+      "authors": [
+        "Ulric Neisser"
+      ],
+      "first_publish_year": 1986,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL18246566W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Ulric Neisser",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL18368203W",
+      "provider": "Open Library metadata",
+      "title": "Cognitive psychology",
+      "authors": [
+        "Ulric Neisser"
+      ],
+      "first_publish_year": 1967,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL18368203W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Ulric Neisser",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL18381460W",
+      "provider": "Open Library metadata",
+      "title": "Social learning theory",
+      "authors": [
+        "Albert Bandura"
+      ],
+      "first_publish_year": 1971,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL18381460W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Albert Bandura",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL18388871W",
+      "provider": "Open Library metadata",
+      "title": "Client-centered therapy",
+      "authors": [
+        "Rogers, Carl R."
+      ],
+      "first_publish_year": 1951,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL18388871W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Carl Rogers",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL18542490W",
+      "provider": "Open Library metadata",
+      "title": "Semiotext(e) SF",
+      "authors": [
+        "Rudy Rucker",
+        "Peter Lamborn Wilson",
+        "Robert Anton Wilson",
+        "Don Webb",
+        "Bruce Sterling",
+        "Bruce Boston",
+        "Ernest Hogan",
+        "John Shirley",
+        "Nick Herbert",
+        "Rachel Pollack",
+        "Bob McGlynn",
+        "Kerry Thornley",
+        "William Gibson",
+        "Sol Yurick",
+        "J. G. Ballard",
+        "Paul Di Filippo",
+        "David Life",
+        "Richard Kadrey",
+        "Thom Metzger",
+        "Lewis Shiner",
+        "William S. Burroughs",
+        "Daniel Pearlman",
+        "Ron Kolm",
+        "Greg Gibson",
+        "Lorraine Schein",
+        "T. L. Parkinson",
+        "Marc Laidlaw",
+        "Colin Wilson",
+        "Robert Sheckley",
+        "Nisi Shawl",
+        "Robert Sheckley",
+        "Philip José Farmer",
+        "Hugh Fox",
+        "Bart Plantenga",
+        "Ivan Stang",
+        "Jacob Rabinowitz",
+        "Barrington J. Bayley"
+      ],
+      "first_publish_year": 1989,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL18542490W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "James J. Gibson",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL19394961W",
+      "provider": "Open Library metadata",
+      "title": "The Perceived self",
+      "authors": [
+        "Ulric Neisser"
+      ],
+      "first_publish_year": 1993,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL19394961W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Ulric Neisser",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL20225630W",
+      "provider": "Open Library metadata",
+      "title": "A Theory of Human Motivation",
+      "authors": [
+        "Abraham H. Maslow"
+      ],
+      "first_publish_year": 2013,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL20225630W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Abraham Maslow",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL20706992W",
+      "provider": "Open Library metadata",
+      "title": "Moral Disengagement",
+      "authors": [
+        "Albert Bandura"
+      ],
+      "first_publish_year": 2015,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL20706992W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Albert Bandura",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL20730578W",
+      "provider": "Open Library metadata",
+      "title": "Yes to Life",
+      "authors": [
+        "Viktor Emil Frankl",
+        "Daniel Goleman",
+        "David Rintoul"
+      ],
+      "first_publish_year": 2020,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL20730578W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Viktor Frankl",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL21681608W",
+      "provider": "Open Library metadata",
+      "title": "Cognitive Behavior Therapy, Third Edition",
+      "authors": [
+        "Judith S. Beck",
+        "Aaron T. Beck"
+      ],
+      "first_publish_year": 2020,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL21681608W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Aaron Beck",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2354087W",
+      "provider": "Open Library metadata",
+      "title": "A way of being",
+      "authors": [
+        "Rogers, Carl R."
+      ],
+      "first_publish_year": 1980,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2354087W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Carl Rogers",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2354089W",
+      "provider": "Open Library metadata",
+      "title": "Client-centered therapy, its current practice, implications, and theory",
+      "authors": [
+        "Rogers, Carl R."
+      ],
+      "first_publish_year": 1951,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2354089W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Carl Rogers",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2354095W",
+      "provider": "Open Library metadata",
+      "title": "Carl Rogers on Personal Power",
+      "authors": [
+        "Rogers, Carl R."
+      ],
+      "first_publish_year": 1977,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2354095W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Carl Rogers",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2354100W",
+      "provider": "Open Library metadata",
+      "title": "Carl Rogers on encounter groups",
+      "authors": [
+        "Rogers, Carl R."
+      ],
+      "first_publish_year": 1970,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2354100W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Carl Rogers",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2354101W",
+      "provider": "Open Library metadata",
+      "title": "Freedom to learn",
+      "authors": [
+        "Rogers, Carl R."
+      ],
+      "first_publish_year": 1969,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2354101W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Carl Rogers",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2354102W",
+      "provider": "Open Library metadata",
+      "title": "On Becoming a Person",
+      "authors": [
+        "Carl R. Rogers"
+      ],
+      "first_publish_year": 1961,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2354102W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Carl Rogers",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2354103W",
+      "provider": "Open Library metadata",
+      "title": "Client-centered therapy",
+      "authors": [
+        "Rogers, Carl R."
+      ],
+      "first_publish_year": 1951,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2354103W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Carl Rogers",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL23599019W",
+      "provider": "Open Library metadata",
+      "title": "Reportable diseases in South Carolina",
+      "authors": [
+        "James Jerome Gibson"
+      ],
+      "first_publish_year": 1995,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL23599019W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "James J. Gibson",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL24557376W",
+      "provider": "Open Library metadata",
+      "title": "Man's Search for Meaning adapted for Young Adults [adaptation]",
+      "authors": [
+        "Viktor Emil Frankl"
+      ],
+      "first_publish_year": 2017,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL24557376W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Viktor Frankl",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2903415W",
+      "provider": "Open Library metadata",
+      "title": "Anxiety disorders and phobias",
+      "authors": [
+        "Aaron T. Beck",
+        "Gary Emery"
+      ],
+      "first_publish_year": 1985,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2903415W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Aaron Beck",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2903417W",
+      "provider": "Open Library metadata",
+      "title": "Depression",
+      "authors": [
+        "Aaron T. Beck"
+      ],
+      "first_publish_year": 1967,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2903417W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Aaron Beck",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2903419W",
+      "provider": "Open Library metadata",
+      "title": "Cognitive Therapy of Depression",
+      "authors": [
+        "Aaron T. Beck"
+      ],
+      "first_publish_year": 1979,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2903419W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Aaron Beck",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2903420W",
+      "provider": "Open Library metadata",
+      "title": "Depression : causes and treatment",
+      "authors": [
+        "Aaron T. Beck"
+      ],
+      "first_publish_year": 1967,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2903420W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Aaron Beck",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2903421W",
+      "provider": "Open Library metadata",
+      "title": "Prisoners of Hate",
+      "authors": [
+        "Aaron T. Beck"
+      ],
+      "first_publish_year": 1999,
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "url": "https://openlibrary.org/works/OL2903421W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Aaron Beck",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2903422W",
+      "provider": "Open Library metadata",
+      "title": "Love is never enough",
+      "authors": [
+        "Aaron T. Beck"
+      ],
+      "first_publish_year": 1988,
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "url": "https://openlibrary.org/works/OL2903422W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Aaron Beck",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL2903423W",
+      "provider": "Open Library metadata",
+      "title": "Cognitive therapy and the emotional disorders",
+      "authors": [
+        "Aaron T. Beck"
+      ],
+      "first_publish_year": 1976,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL2903423W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Aaron Beck",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL31477134W",
+      "provider": "Open Library metadata",
+      "title": "The Senses Considered as Conceptual Systems",
+      "authors": [
+        "James Jerome Gibson"
+      ],
+      "first_publish_year": 1966,
+      "languages": [],
+      "url": "https://openlibrary.org/works/OL31477134W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "James J. Gibson",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL31541495W",
+      "provider": "Open Library metadata",
+      "title": "El Hombre En Busca Del Sentido",
+      "authors": [
+        "Viktor Emil Frankl"
+      ],
+      "first_publish_year": 2017,
+      "languages": [
+        "spa"
+      ],
+      "url": "https://openlibrary.org/works/OL31541495W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Viktor Frankl",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3275806W",
+      "provider": "Open Library metadata",
+      "title": "Assessing families and couples",
+      "authors": [
+        "Salvador Minuchin"
+      ],
+      "first_publish_year": 2006,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3275806W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Salvador Minuchin",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3275814W",
+      "provider": "Open Library metadata",
+      "title": "Family therapy techniques",
+      "authors": [
+        "Salvador Minuchin"
+      ],
+      "first_publish_year": 1981,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3275814W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Salvador Minuchin",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3275816W",
+      "provider": "Open Library metadata",
+      "title": "Psychosomatic families",
+      "authors": [
+        "Salvador Minuchin"
+      ],
+      "first_publish_year": 1978,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3275816W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Salvador Minuchin",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3275817W",
+      "provider": "Open Library metadata",
+      "title": "Family healing",
+      "authors": [
+        "Salvador Minuchin"
+      ],
+      "first_publish_year": 1993,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3275817W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Salvador Minuchin",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3275819W",
+      "provider": "Open Library metadata",
+      "title": "Families and family therapy",
+      "authors": [
+        "Salvador Minuchin"
+      ],
+      "first_publish_year": 1974,
+      "languages": [
+        "ger",
+        "und",
+        "dut",
+        "spa",
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3275819W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Salvador Minuchin",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3356966W",
+      "provider": "Open Library metadata",
+      "title": "Social learning and personality development",
+      "authors": [
+        "Albert Bandura"
+      ],
+      "first_publish_year": 1963,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3356966W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Albert Bandura",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3356969W",
+      "provider": "Open Library metadata",
+      "title": "Psychological Modeling",
+      "authors": [
+        "Albert Bandura"
+      ],
+      "first_publish_year": 1971,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3356969W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Albert Bandura",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3356970W",
+      "provider": "Open Library metadata",
+      "title": "Self-efficacy",
+      "authors": [
+        "Albert Bandura"
+      ],
+      "first_publish_year": 1977,
+      "languages": [
+        "eng",
+        "kor"
+      ],
+      "url": "https://openlibrary.org/works/OL3356970W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Albert Bandura",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3356971W",
+      "provider": "Open Library metadata",
+      "title": "Social learning theory",
+      "authors": [
+        "Albert Bandura"
+      ],
+      "first_publish_year": 1971,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3356971W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Albert Bandura",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3356972W",
+      "provider": "Open Library metadata",
+      "title": "Principles of behavior modification",
+      "authors": [
+        "Albert Bandura"
+      ],
+      "first_publish_year": 1969,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3356972W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Albert Bandura",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL3356973W",
+      "provider": "Open Library metadata",
+      "title": "Social Foundations of Thought and Action",
+      "authors": [
+        "Albert Bandura"
+      ],
+      "first_publish_year": 1985,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL3356973W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Albert Bandura",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL39159019W",
+      "provider": "Open Library metadata",
+      "title": "Problem and the Approach",
+      "authors": [
+        "Lev S. Vygotsky"
+      ],
+      "first_publish_year": 2014,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL39159019W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Lev Vygotsky",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL5589050W",
+      "provider": "Open Library metadata",
+      "title": "Reasons for realism",
+      "authors": [
+        "James Jerome Gibson"
+      ],
+      "first_publish_year": 1982,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL5589050W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "James J. Gibson",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL5589051W",
+      "provider": "Open Library metadata",
+      "title": "The ecological approach to visual perception",
+      "authors": [
+        "James Jerome Gibson"
+      ],
+      "first_publish_year": 1979,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL5589051W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "James J. Gibson",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL5589052W",
+      "provider": "Open Library metadata",
+      "title": "The perception of the visual world",
+      "authors": [
+        "James Jerome Gibson"
+      ],
+      "first_publish_year": 1950,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL5589052W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "James J. Gibson",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL5589053W",
+      "provider": "Open Library metadata",
+      "title": "The senses considered as perceptual systems",
+      "authors": [
+        "James Jerome Gibson"
+      ],
+      "first_publish_year": 1966,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL5589053W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "James J. Gibson",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL6910499W",
+      "provider": "Open Library metadata",
+      "title": "Memory observed",
+      "authors": [
+        "Ulric Neisser"
+      ],
+      "first_publish_year": 1982,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL6910499W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Ulric Neisser",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL6910502W",
+      "provider": "Open Library metadata",
+      "title": "The Perceived Self",
+      "authors": [
+        "Ulric Neisser"
+      ],
+      "first_publish_year": 1994,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL6910502W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Ulric Neisser",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL6910503W",
+      "provider": "Open Library metadata",
+      "title": "Cognitive psychology",
+      "authors": [
+        "Ulric Neisser"
+      ],
+      "first_publish_year": 1967,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL6910503W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Ulric Neisser",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL6910504W",
+      "provider": "Open Library metadata",
+      "title": "Cognition and reality",
+      "authors": [
+        "Ulric Neisser"
+      ],
+      "first_publish_year": 1976,
+      "languages": [
+        "eng",
+        "hun"
+      ],
+      "url": "https://openlibrary.org/works/OL6910504W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "Ulric Neisser",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL7948604W",
+      "provider": "Open Library metadata",
+      "title": "Prentice Hall Literature -- Gold",
+      "authors": [
+        "Sumner Braunstein",
+        "Isabel Allende",
+        "Rudolfo A. Anaya",
+        "Sui Wai Anderson",
+        "Margaret Atwood",
+        "Toni Cade Bambara",
+        "Basho",
+        "Robert Browning",
+        "Morley Callaghan",
+        "Lewis Carroll",
+        "Κωνσταντίνος Καβάφης",
+        "Bruce Chatwin",
+        "Chiyojo",
+        "Marchette Gaylord Chute",
+        "Arthur C. Clarke",
+        "Mark Twain",
+        "Richard Connell",
+        "E. E. Cummings",
+        "Walter De la Mare",
+        "Paul Laurence Dunbar",
+        "T. S. Eliot",
+        "Robert Frost",
+        "Chief Dan George",
+        "William Gibson",
+        "O. Henry",
+        "Thor Heyerdahl",
+        "Όμηρος",
+        "Langston Hughes",
+        "James Hurst",
+        "James Weldon Johnson",
+        "James Joyce",
+        "Donald Justice",
+        "Martin Luther King Jr.",
+        "Henry Wadsworth Longfellow",
+        "Gabriel García Márquez",
+        "Paule Marshall",
+        "John Masefield",
+        "Edgar Lee Masters",
+        "Guy de Maupassant",
+        "Anne McCaffrey",
+        "John McPhee",
+        "Gabriela Mistral",
+        "William Least Heat Moon",
+        "Grant Moss Jr.",
+        "Saki",
+        "John G. Neihardt",
+        "Simon J. Ortiz",
+        "Gordon Parks",
+        "Marge Piercy",
+        "Edgar Allan Poe",
+        "James C. Rettie",
+        "Sally Ride",
+        "Tomás Rivera",
+        "Edwin Arlington Robinson",
+        "Theodore Roethke",
+        "Christina Georgina Rosetti",
+        "Carl Sandburg",
+        "William Shakespeare",
+        "Leslie Silko",
+        "Gary Soto",
+        "Frank R. Stockton",
+        "Wisława Szymborska",
+        "Amy Tan",
+        "Sara Teasdale",
+        "Alfred Lord Tennyson",
+        "Ernest Lawrence Thayer",
+        "James Thurber",
+        "Yoshiko Uchida",
+        "John Updike",
+        "Derek Walcott",
+        "Margaret Walker",
+        "Ellen Harkins Wheat",
+        "William Wordsworth",
+        "Richard Wright"
+      ],
+      "first_publish_year": 1994,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL7948604W",
+      "access_metadata": {
+        "ebook_access": "borrowable"
+      },
+      "query": "James J. Gibson",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL8200920W",
+      "provider": "Open Library metadata",
+      "title": "The Will to Meaning",
+      "authors": [
+        "Viktor Emil Frankl",
+        "Vincent Lenhardt"
+      ],
+      "first_publish_year": 1969,
+      "languages": [
+        "fre",
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL8200920W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Viktor Frankl",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL8257090W",
+      "provider": "Open Library metadata",
+      "title": "Man's Search for Ultimate Meaning",
+      "authors": [
+        "Viktor Emil Frankl"
+      ],
+      "first_publish_year": 1997,
+      "languages": [
+        "spa",
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL8257090W",
+      "access_metadata": {
+        "ebook_access": "printdisabled"
+      },
+      "query": "Viktor Frankl",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL8632005W",
+      "provider": "Open Library metadata",
+      "title": "El Management Segun Maslow/ Maslow on Management",
+      "authors": [
+        "Abraham H. Maslow"
+      ],
+      "first_publish_year": 2005,
+      "languages": [
+        "spa"
+      ],
+      "url": "https://openlibrary.org/works/OL8632005W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Abraham Maslow",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL9116784W",
+      "provider": "Open Library metadata",
+      "title": "Pensamiento Y Lenguaje",
+      "authors": [
+        "Lev Vygotsky"
+      ],
+      "first_publish_year": 2003,
+      "languages": [
+        "spa"
+      ],
+      "url": "https://openlibrary.org/works/OL9116784W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Lev Vygotsky",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL9116785W",
+      "provider": "Open Library metadata",
+      "title": "Psicologia Del Arte / Psychology of Art (Paidos Basica)",
+      "authors": [
+        "Lev Vygotsky"
+      ],
+      "first_publish_year": 2006,
+      "languages": [
+        "spa"
+      ],
+      "url": "https://openlibrary.org/works/OL9116785W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Lev Vygotsky",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL9116786W",
+      "provider": "Open Library metadata",
+      "title": "Thought and Language",
+      "authors": [
+        "Lev Vygotsky"
+      ],
+      "first_publish_year": 1996,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL9116786W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Lev Vygotsky",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL9221800W",
+      "provider": "Open Library metadata",
+      "title": "Thought and Language",
+      "authors": [
+        "Lev S. Vygotsky"
+      ],
+      "first_publish_year": 1986,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL9221800W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Lev Vygotsky",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL9242088W",
+      "provider": "Open Library metadata",
+      "title": "The Psychology of Art",
+      "authors": [
+        "Lev Semenovich Vygotsky"
+      ],
+      "first_publish_year": 1974,
+      "languages": [],
+      "url": "https://openlibrary.org/works/OL9242088W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Lev Vygotsky",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "openlibrary:/works/OL9242089W",
+      "provider": "Open Library metadata",
+      "title": "Thought and language",
+      "authors": [
+        "Lev Semenovich Vygotsky"
+      ],
+      "first_publish_year": null,
+      "languages": [
+        "eng"
+      ],
+      "url": "https://openlibrary.org/works/OL9242089W",
+      "access_metadata": {
+        "ebook_access": "no_ebook"
+      },
+      "query": "Lev Vygotsky",
+      "review_status": "待核验：书目或借阅状态不构成转载授权",
+      "first_seen": "2026-11-22"
+    }
+  ]
+}

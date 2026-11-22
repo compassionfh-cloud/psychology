@@ -1,0 +1,18 @@
+{
+  "queries": [
+    {"provider": "gutendex", "search": "psychology"},
+    {"provider": "gutendex", "search": "Freud"},
+    {"provider": "gutendex", "search": "Titchener"},
+    {"provider": "gutendex", "search": "Adler"},
+    {"provider": "openlibrary", "search": "Carl Rogers"},
+    {"provider": "openlibrary", "search": "Abraham Maslow"},
+    {"provider": "openlibrary", "search": "Viktor Frankl"},
+    {"provider": "openlibrary", "search": "Ulric Neisser"},
+    {"provider": "openlibrary", "search": "Jean Piaget"},
+    {"provider": "openlibrary", "search": "Lev Vygotsky"},
+    {"provider": "openlibrary", "search": "Albert Bandura"},
+    {"provider": "openlibrary", "search": "Aaron Beck"},
+    {"provider": "openlibrary", "search": "Salvador Minuchin"},
+    {"provider": "openlibrary", "search": "James J. Gibson"}
+  ]
+}
